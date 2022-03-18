@@ -12,6 +12,11 @@
   margin: 8px 0;
 }
 
+.home > p {
+  font-size: 16px;
+  margin: 4px 0;
+}
+
 .home > span {
   display: none;
 }
